@@ -13,9 +13,4 @@ However, please make sure to mention me and AwesomeCV at the bottom of the page.
 
 ## Example
 
-There are already a group of people who have been using this template since 2016.
-
-* ~2020
-
-
 ![](./image/main.png)
