@@ -16,7 +16,6 @@ However, please make sure to mention me and AwesomeCV at the bottom of the page.
 There are already a group of people who have been using this template since 2016.
 
 * ~2020
-  https://stypr.github.io/resume-template/resume/
 
 
 ![](./image/main.png)
