@@ -13,6 +13,6 @@ However, please make sure to mention me and AwesomeCV at the bottom of the page.
 
 ## Example
 
-http://sefielbaz.com
+https://sefielbaz.com
 
 https://jselbaz.github.io/resume-template/resume/ (page visit counter disabled due to CORS settings) 
