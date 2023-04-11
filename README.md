@@ -13,4 +13,5 @@ However, please make sure to mention me and AwesomeCV at the bottom of the page.
 
 ## Example
 
-https://jselbaz.github.io/resume-template/resume/
+http://sefielbaz.com 
+https://jselbaz.github.io/resume-template/resume/ (page visit counter disabled due to CORS settings) 
