@@ -1,18 +1,14 @@
-# resume-template
+# Cloud Resume Challenge
 
-Lightweight resume template designed and developed this page back in 2016, inspired by [AwesomeCV](https://github.com/posquit0/Awesome-CV).
+## Resume in HTML, CSS, and JS
+The resume itself uses the resume template designed and developed by [stypr resume-template](https://github.com/stypr/resume-template) who was in turn inspired by [AwesomeCV](https://github.com/posquit0/Awesome-CV).
 
-I'm re-uploading this on GitHub as there were many requests of sharing and re-using this template.
+My resume is hosted on S3, served by CloudFront, and utilizes JS, Lambda functions and DynamoDB for keeping track of visitor count. The page view counter is in the footer.
 
-
-## License
-
-You can use this template with a free of charge to make your own resume.
-
-However, please make sure to mention me and AwesomeCV at the bottom of the page.
+I used Jake Jarvis's GitHub Action to sync my S3 bucket to this repo so any changes I make here propagate to S3.
 
 ## Example
 
 https://sefielbaz.com
 
-[https://jselbaz.github.io/resume-template/](https://jselbaz.github.io/resume-template/resume/) (page visit counter disabled due to CORS settings) 
+[https://jselbaz.github.io/resume-template/](https://jselbaz.github.io/resume-template/resume/) (page visit counter disabled due to CORS settings)
