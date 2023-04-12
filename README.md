@@ -7,6 +7,8 @@ My resume is hosted on S3, served by CloudFront, and utilizes JS, Lambda functio
 
 I used Jake Jarvis's GitHub Action to sync my S3 bucket to this repo so any changes I make here propagate to S3.
 
+![alt text](/Diagram.jpg?raw=true "Diagram")
+
 ## Example
 
 https://sefielbaz.com
