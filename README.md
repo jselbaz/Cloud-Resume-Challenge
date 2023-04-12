@@ -13,4 +13,4 @@ I used Jake Jarvis's GitHub Action to sync my S3 bucket to this repo so any chan
 
 https://sefielbaz.com
 
-[https://jselbaz.github.io/resume-template/](https://jselbaz.github.io/resume-template/resume/) (page visit counter disabled due to CORS settings)
+[GH Pages](https://jselbaz.github.io/Cloud-Resume-Challenge/resume/) (page visit counter disabled due to CORS settings)
